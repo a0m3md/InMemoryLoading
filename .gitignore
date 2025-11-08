@@ -1,0 +1,19 @@
+# Windows executables
+*.exe
+*.dll
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+
+# Build output
+build/
+bin/
+*.out
+
+# Log files
+*.log
